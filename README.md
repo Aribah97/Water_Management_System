@@ -31,7 +31,7 @@ UML (Unified Modeling Language) diagrams are visual representations used in soft
 
 There are several types of UML diagrams, each serving a specific purpose in software development and system modeling. Here are some common types:
 
-**Class Diagrams**: Represent the static structure of a system by showing classes, their attributes, methods, and relationships between classes.
+**[Class Diagrams](url)**: Represent the static structure of a system by showing classes, their attributes, methods, and relationships between classes.
 
 **Sequence Diagrams**: Illustrate the interactions between objects or components in a system over time, focusing on the order of messages exchanged.
 
