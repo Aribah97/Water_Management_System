@@ -31,13 +31,13 @@ UML (Unified Modeling Language) diagrams are visual representations used in soft
 
 There are several types of UML diagrams, each serving a specific purpose in software development and system modeling. Here are some common types:
 
-**[Class Diagrams](https://github.com/Aribah97/Water_Management_System/blob/main/UML_Diagrams/UML_Activity_Diagram.pdf)**: Represent the static structure of a system by showing classes, their attributes, methods, and relationships between classes.
+**[Class Diagrams](https://github.com/Aribah97/Water_Management_System/blob/main/UML_Diagrams/UML_Class_Diagram.pdf)**: Represent the static structure of a system by showing classes, their attributes, methods, and relationships between classes.
 
-**Sequence Diagrams**: Illustrate the interactions between objects or components in a system over time, focusing on the order of messages exchanged.
+**[Sequence Diagrams](https://github.com/Aribah97/Water_Management_System/blob/main/UML_Diagrams/UML_Sequence_Diagram.pdf)**: Illustrate the interactions between objects or components in a system over time, focusing on the order of messages exchanged.
 
-**Use Case Diagrams**: Depict the interactions between actors (users or external systems) and a system to describe its functionality from a user's perspective.
+**[Use Case Diagrams](https://github.com/Aribah97/Water_Management_System/blob/main/UML_Diagrams/UML_Use_Case_Diagram.pdf)**: Depict the interactions between actors (users or external systems) and a system to describe its functionality from a user's perspective.
 
-**Activity Diagrams**: Visualize the flow of control or workflow within a system, detailing the steps or actions involved in a process.
+**[Activity Diagrams](https://github.com/Aribah97/Water_Management_System/blob/main/UML_Diagrams/UML_Activity_Diagram.pdf)**: Visualize the flow of control or workflow within a system, detailing the steps or actions involved in a process.
 
 
 
