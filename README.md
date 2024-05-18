@@ -43,6 +43,68 @@ There are several types of UML diagrams, each serving a specific purpose in soft
 
 **[Clean code development](https://github.com/Aribah97/Water_Management_System/blob/main/Clean%20Code%20Development.pdf)** involves writing code that is easy to understand, modify, and maintain. This approach emphasizes the importance of readability, simplicity, and clarity in code, enabling developers to collaborate effectively and produce high-quality software. Key principles include using meaningful names for variables, functions, and classes, breaking down code into small, cohesive modules, avoiding unnecessary complexity, and following consistent formatting and commenting practices. By adhering to these principles, developers can create code that is easy to read, test, and refactor, leading to improved productivity, reduced bugs, and enhanced maintainability throughout the software development lifecycle.
 
+**IDE**
+I have used Arduino IDE because I had to proogram the controller to detect and provide the signals from actuator it uses c++ language I like it because it has alot of libraries, its free to use and you can acheive alot form it.
+
+**Arduino Shortcuts that I Like.**
+
+**New Sketch**
+ 
+ Ctrl + N
+ 
+**Open Sketch**
+
+ Ctrl + O
+
+**Save Sketch**
+ 
+ Ctrl + S
+
+**Verify/Compile**
+
+ Ctrl + R
+
+**Upload**
+
+Ctrl + U
+
+**New Tab**
+
+Ctrl + Shift + N
+
+**Close Tab**
+
+Ctrl + W
+
+**Cut**
+
+Ctrl + X
+
+**Copy**
+
+Ctrl + C
+
+**Paste**
+
+Ctrl + V
+
+**Select All**
+
+Ctrl + A
+
+**Comment/Uncomment**
+
+Ctrl + /
+
+**Go to Line**
+
+Ctrl + L
+
+**Toggle Serial Monitor**
+
+Ctrl + Shift + M
+
+
 
 
 
