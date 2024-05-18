@@ -1,5 +1,5 @@
 SoftwareSerial (12, 13);
-LiquidCrystal lcd(9, 8, 7, 6, 5, 4) ; 
+LiquidCrystal lcd(9, 8, 7, 6, 5, 4); 
 
 
 
