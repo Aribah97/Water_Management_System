@@ -13,8 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: code__CCD_.ino
-      run: ./code__CCD_.ino
+    - name: code__CCD_.cpp
+      run: ./code__CCD_.cpp
     - name: make
       run: make
     - name: make check
