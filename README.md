@@ -45,73 +45,32 @@ I have used SonarCloud for the metrics of my project as SonarCloud is a cloud-ba
 
 
 
-**[8-IDE](https://www.arduino.cc/en/software)**
+**8-IDE**
 
-I have used Arduino IDE because I had to proogram the controller to detect and provide the signals from actuator it uses c++ language I like it because it has alot of libraries, its free to use and you can acheive alot form it.
+I have used [Arduino IDE](https://www.arduino.cc/en/software) because I had to proogram the controller to detect and provide the signals from actuator it uses c++ language I like it because it has alot of libraries, its free to use and you can acheive alot form it.
 
 **Arduino Shortcuts that I Like.**
 
-**New Sketch**
- 
- Ctrl + N
- 
-**Open Sketch**
-
- Ctrl + O
-
-**Save Sketch**
- 
- Ctrl + S
-
-**Verify/Compile**
-
- Ctrl + R
-
-**Upload**
-
-Ctrl + U
-
-**New Tab**
-
-Ctrl + Shift + N
-
-**Close Tab**
-
-Ctrl + W
-
-**Cut**
-
-Ctrl + X
-
-**Copy**
-
-Ctrl + C
-
-**Paste**
-
-Ctrl + V
-
-**Select All**
-
-Ctrl + A
-
-**Comment/Uncomment**
-
-Ctrl + /
-
-**Go to Line**
-
-Ctrl + L
-
-**Toggle Serial Monitor**
-
-Ctrl + Shift + M
+**New Sketch** Ctrl + N
+**Open Sketch** Ctrl + O
+**Save Sketch** Ctrl + S
+**Verify/Compile** Ctrl + R
+**Upload** Ctrl + U
+**New Tab** Ctrl + Shift + N
+**Close Tab** Ctrl + W
+**Cut** Ctrl + X
+**Copy** Ctrl + C
+**Paste** Ctrl + V
+**Select All** Ctrl + A
+**Comment/Uncomment** Ctrl + /
+**Go to Line** Ctrl + L
+**Toggle Serial Monitor** Ctrl + Shift + M
 
 
 
-**[10-Functional Programming](https://github.com/Aribah97/Water_Management_System/blob/main/Functional_Programming.pdf)**
+**10-Functional Programming**
 
-Functional Programming Explanation:
+[Functional Programming](https://github.com/Aribah97/Water_Management_System/blob/main/Functional_Programming.pdf)
 Pulse Counting for Flow Measurement:
 
 Function: pulseCounter
