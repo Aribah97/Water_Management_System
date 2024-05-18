@@ -233,10 +233,3 @@ Encapsulation: Functions encapsulate specific behaviors, isolating them from oth
 Reusability: Functions like Turbidity and flow can be reused in other contexts or projects requiring similar functionality.
 Event-Driven: The pulseCounter function is an interrupt service routine that responds to hardware events, demonstrating event-driven programming.
 By organizing the code into these distinct functions, the system is easier to understand, debug, and extend with additional features.
-
-
-**********************************************************************************THE END***********************************************************************************************
-
-
-
-
