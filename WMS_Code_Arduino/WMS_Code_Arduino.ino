@@ -145,7 +145,7 @@ void sendData() {
   static uint32_t time1;
   if (millis() - time1 > 1000) {
       //Simplified sending data to sserial using String concatenation//
-    sserial.print(
+    Serial.print(
       "{\"t\":" + String(turbidity) +
       ",\"l\":" + String(leak) +
       ",\"v\":" + String(valve) +
