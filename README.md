@@ -110,6 +110,47 @@ Ctrl + L
 Ctrl + Shift + M
 
 
+**[Functional Programming](https://github.com/Aribah97/Water_Management_System/blob/main/Functional_Programming.pdf)**
+
+Functional Programming Explanation:
+Pulse Counting for Flow Measurement:
+
+Function: pulseCounter
+Description: This interrupt service routine increments the pulseCount variable each time a pulse from the flow sensor is detected.
+System Initialization:
+
+Function: setup
+Description: Initializes serial communication, sets up pin modes, initializes the LCD, and attaches the interrupt for the flow sensor.
+Main Loop:
+
+Function: loop
+Description: Continuously calls other functions to update system state: Turbidity for turbidity measurement, lcdScr for updating the LCD screen, flow for calculating flow rate and water usage, leakage for detecting leaks, and sendData for sending data.
+Leak Detection and Valve Control:
+
+Function: leakage
+Description: Checks for leaks every 60 seconds and controls the valve state based on water usage, turbidity, and leak detection.
+Flow Rate and Water Usage Calculation:
+
+Function: flow
+Description: Calculates flow rate from pulse counts, updates total water usage, and prints the values to the serial monitor.
+Turbidity Measurement:
+
+Function: Turbidity
+Description: Reads turbidity sensor values, averages them, and calculates turbidity in NTU (Nephelometric Turbidity Units).
+LCD Screen Update:
+
+Function: lcdScr
+Description: Updates the LCD display every 3 seconds, cycling through screens showing turbidity, leak and valve status, and water usage limits.
+Data Transmission Placeholder:
+
+Function: sendData
+Description: Placeholder for implementing data transmission logic, allowing for future expansion to send data to a remote server or other systems.
+Key Functional Programming Aspects:
+Modularity: Each function performs a specific task, enhancing readability and maintainability.
+Encapsulation: Functions encapsulate specific behaviors, isolating them from other parts of the program.
+Reusability: Functions like Turbidity and flow can be reused in other contexts or projects requiring similar functionality.
+Event-Driven: The pulseCounter function is an interrupt service routine that responds to hardware events, demonstrating event-driven programming.
+By organizing the code into these distinct functions, the system is easier to understand, debug, and extend with additional features.
 
 
 
