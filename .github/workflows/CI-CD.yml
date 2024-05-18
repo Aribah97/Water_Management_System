@@ -26,8 +26,8 @@ jobs:
 
     - name: Install libraries
       run: |
-        arduino-cli lib install "SoftwareSerial.h"
-        arduino-cli lib install "LiquidCrystal.h"
+        arduino-cli lib install "SoftwareSerial"
+        arduino-cli lib install "LiquidCrystal"
 
     - name: Compile sketch
       run: arduino-cli compile --fqbn arduino:avr:uno WMS_Code/code__CCD_.ino
