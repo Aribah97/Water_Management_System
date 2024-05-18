@@ -27,11 +27,6 @@ jobs:
     - name: Compile sketch
       run: arduino-cli compile --fqbn arduino:avr:uno WMS_Code/code__CCD_.ino
 
-    - name: Upload sketch (only on push to main)
-      if: github.ref == 'refs/heads/main'
-      run: |
-        arduino-cli upload -p com3 --fqbn arduino:avr:uno WMS_Code/code__CCD_.ino
-
     - name: Notify success
       if: success()
       run: echo "Build succeeded!"
