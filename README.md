@@ -1,31 +1,24 @@
 # Water_Management_System
 A project for managing water distribution among consumers.
 
-**GIT**
+**1-GIT**
 
 Git is a version control system that tracks changes in files over time. It allows multiple developers to collaborate on projects by managing revisions and merging changes seamlessly. Git operates locally, enabling offline work, and integrates with remote repositories like GitHub for centralized collaboration. Its features include branching, tagging, and efficient handling of large projects.
 
 **Commands used** 
 
 git status
-
 git add .
-
 git commit -m
-
 git push
-
 git clone
-
 git checkout
-
 git switch
-
 git branch
-
 git branch -r
 
-**UML**
+
+**2-UML**
 
 UML (Unified Modeling Language) diagrams are visual representations used in software engineering to illustrate system structures, behaviors, and interactions. They provide a standardized way to communicate complex systems, processes, and architectures among stakeholders. UML diagrams include various types such as class diagrams, sequence diagrams, activity diagrams, and use case diagrams, each serving different purposes. These diagrams aid in understanding, designing, documenting, and analyzing software systems, facilitating clearer communication and effective development processes.
 
@@ -39,15 +32,20 @@ There are several types of UML diagrams, each serving a specific purpose in soft
 
 **[Activity Diagrams](https://github.com/Aribah97/Water_Management_System/blob/main/UML_Diagrams/UML_Activity_Diagram.pdf)**: Visualize the flow of control or workflow within a system, detailing the steps or actions involved in a process.
 
-**[Metrics](https://sonarcloud.io/summary/new_code?id=Aribah97_Water_Management_System)**
+
+
+**[4-Metrics](https://sonarcloud.io/summary/new_code?id=Aribah97_Water_Management_System)**
 
 I have used SonarCloud for the metrics of my project as SonarCloud is a cloud-based service for continuous code quality inspection, detecting bugs, vulnerabilities, and code smells. It provides key metrics such as bugs, vulnerabilities, code smells, test coverage, code duplications, complexity, and documentation quality. Additionally, it offers ratings for reliability, security, and maintainability, alongside measuring technical debt and codebase size. The goal is to achieve zero bugs and vulnerabilities, high test coverage, low code duplications and complexity, and maintain high reliability, security, and maintainability ratings, all while minimizing technical debt. SonarCloud integrates with CI/CD pipelines to provide real-time feedback and maintain high code quality standards.
 
-**Clean Code Development**
+
+**5-Clean Code Development**
 
 **[Clean code development](https://github.com/Aribah97/Water_Management_System/blob/main/Clean%20Code%20Development.pdf)** involves writing code that is easy to understand, modify, and maintain. This approach emphasizes the importance of readability, simplicity, and clarity in code, enabling developers to collaborate effectively and produce high-quality software. Key principles include using meaningful names for variables, functions, and classes, breaking down code into small, cohesive modules, avoiding unnecessary complexity, and following consistent formatting and commenting practices. By adhering to these principles, developers can create code that is easy to read, test, and refactor, leading to improved productivity, reduced bugs, and enhanced maintainability throughout the software development lifecycle.
 
-**IDE**
+
+
+**[8-IDE](https://www.arduino.cc/en/software)**
 
 I have used Arduino IDE because I had to proogram the controller to detect and provide the signals from actuator it uses c++ language I like it because it has alot of libraries, its free to use and you can acheive alot form it.
 
@@ -110,7 +108,8 @@ Ctrl + L
 Ctrl + Shift + M
 
 
-**[Functional Programming](https://github.com/Aribah97/Water_Management_System/blob/main/Functional_Programming.pdf)**
+
+**[10-Functional Programming](https://github.com/Aribah97/Water_Management_System/blob/main/Functional_Programming.pdf)**
 
 Functional Programming Explanation:
 Pulse Counting for Flow Measurement:
