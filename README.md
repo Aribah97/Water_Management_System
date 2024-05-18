@@ -7,14 +7,14 @@ Git is a version control system that tracks changes in files over time. It allow
 
 **Commands used** 
 
-git status
-git add .
-git commit -m
-git push
-git clone
-git checkout
-git switch
-git branch
+git status,
+git add . ,
+git commit -m,
+git push,
+git clone,
+git checkout,
+git switch,
+git branch,
 git branch -r
 
 
@@ -51,19 +51,19 @@ I have used [Arduino IDE](https://www.arduino.cc/en/software) because I had to p
 
 **Arduino Shortcuts that I Like.**
 
-**New Sketch** Ctrl + N
-**Open Sketch** Ctrl + O
-**Save Sketch** Ctrl + S
-**Verify/Compile** Ctrl + R
-**Upload** Ctrl + U
-**New Tab** Ctrl + Shift + N
-**Close Tab** Ctrl + W
-**Cut** Ctrl + X
-**Copy** Ctrl + C
-**Paste** Ctrl + V
-**Select All** Ctrl + A
-**Comment/Uncomment** Ctrl + /
-**Go to Line** Ctrl + L
+**New Sketch** Ctrl + N,
+**Open Sketch** Ctrl + O,
+**Save Sketch** Ctrl + S,
+**Verify/Compile** Ctrl + R,
+**Upload** Ctrl + U,
+**New Tab** Ctrl + Shift + N,
+**Close Tab** Ctrl + W,
+**Cut** Ctrl + X,
+**Copy** Ctrl + C,
+**Paste** Ctrl + V,
+**Select All** Ctrl + A,
+**Comment/Uncomment** Ctrl + /,
+**Go to Line** Ctrl + L,
 **Toggle Serial Monitor** Ctrl + Shift + M
 
 
