@@ -33,6 +33,10 @@ There are several types of UML diagrams, each serving a specific purpose in soft
 **[Activity Diagrams](https://github.com/Aribah97/Water_Management_System/blob/main/UML_Diagrams/UML_Activity_Diagram.pdf)**: Visualize the flow of control or workflow within a system, detailing the steps or actions involved in a process.
 
 
+**3-DDD Domain Driven Design**
+
+[Domain-Driven Design (DDD)](https://github.com/Aribah97/Water_Management_System/blob/main/DDD.pdf) is a software development approach focused on creating software that closely aligns with business domains through collaboration between technical and domain experts. 
+
 
 **4-Metrics**
 
@@ -68,7 +72,7 @@ I have used [Arduino IDE](https://www.arduino.cc/en/software) because I had to p
 
 
 
-**10-Functional Programming**
+**11-Functional Programming**
 
 [Functional Programming](https://github.com/Aribah97/Water_Management_System/blob/main/Functional_Programming.pdf)
 Pulse Counting for Flow Measurement:
