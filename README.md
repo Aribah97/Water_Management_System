@@ -34,9 +34,9 @@ There are several types of UML diagrams, each serving a specific purpose in soft
 
 
 
-**[4-Metrics](https://sonarcloud.io/summary/new_code?id=Aribah97_Water_Management_System)**
+**4-Metrics**
 
-I have used SonarCloud for the metrics of my project as SonarCloud is a cloud-based service for continuous code quality inspection, detecting bugs, vulnerabilities, and code smells. It provides key metrics such as bugs, vulnerabilities, code smells, test coverage, code duplications, complexity, and documentation quality. Additionally, it offers ratings for reliability, security, and maintainability, alongside measuring technical debt and codebase size. The goal is to achieve zero bugs and vulnerabilities, high test coverage, low code duplications and complexity, and maintain high reliability, security, and maintainability ratings, all while minimizing technical debt. SonarCloud integrates with CI/CD pipelines to provide real-time feedback and maintain high code quality standards.
+I have used [SonarCloud](https://sonarcloud.io/summary/new_code?id=Aribah97_Water_Management_System) for the metrics of my project as SonarCloud is a cloud-based service for continuous code quality inspection, detecting bugs, vulnerabilities, and code smells. It provides key metrics such as bugs, vulnerabilities, code smells, test coverage, code duplications, complexity, and documentation quality. Additionally, it offers ratings for reliability, security, and maintainability, alongside measuring technical debt and codebase size. The goal is to achieve zero bugs and vulnerabilities, high test coverage, low code duplications and complexity, and maintain high reliability, security, and maintainability ratings, all while minimizing technical debt. SonarCloud integrates with CI/CD pipelines to provide real-time feedback and maintain high code quality standards.
 
 
 **5-Clean Code Development**
