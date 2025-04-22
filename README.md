@@ -1,5 +1,5 @@
 # Water_Management_System
-My roject aims to develop a comprehensive water management system that monitors and controls water usage, detects leaks, and ensures optimal operation of a water supply network. The system utilizes various sensors and actuators to gather real-time data on water turbidity, flow rate, and potential leaks, while also providing control over a valve to regulate water flow. By integrating hardware components with software logic, the project enables efficient water resource management and helps mitigate potential water wastage or damage caused by leaks.
+My Project aims to develop a comprehensive water management system that monitors and controls water usage, detects leaks, and ensures optimal operation of a water supply network. The system utilizes various sensors and actuators to gather real-time data on water turbidity, flow rate, and potential leaks, while also providing control over a valve to regulate water flow. By integrating hardware components with software logic, the project enables efficient water resource management and helps mitigate potential water wastage or damage caused by leaks.
 
 **Key Features:**
 
