@@ -1,0 +1,1 @@
+#ifndef LEAKDETECTION_H\n#define LEAKDETECTION_H\n\nclass LeakDetection {\npublic:\n    LeakDetection();\n    void detectLeak();\n    bool isLeakDetected();\nprivate:\n    bool leakDetected;\n};\n\n#endif // LEAKDETECTION_H
