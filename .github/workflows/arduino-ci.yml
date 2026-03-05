@@ -34,7 +34,7 @@ jobs:
         arduino-cli compile --fqbn arduino:avr:uno WMS_Code_Arduino/UnitTests.ino || echo "Unit tests compilation completed"
       continue-on-error: true
 
-    code-quality:
+  code-quality:
     runs-on: ubuntu-latest
     
     steps:
